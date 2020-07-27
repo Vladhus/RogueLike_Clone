@@ -1,2 +1,2 @@
 # RogueLike_Clone
-![](images/cv_roguelike)
+![](images/cv_roguelike.png)
